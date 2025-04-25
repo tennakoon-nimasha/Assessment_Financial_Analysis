@@ -1,0 +1,17 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+PyPDF2==3.0.1
+google-generativeai
+pandas
+httpx
+python-dotenv
+google-generativeai
+streamlit 
+matplotlib 
+seaborn 
+plotly
+tabulate
+langchain
+langchain-experimental
+langchain-google-genai 
+google-genai
