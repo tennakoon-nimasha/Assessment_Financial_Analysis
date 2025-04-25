@@ -46,6 +46,7 @@ pip install -r requirements.txt
 ```
 GOOGLE_STUDIO_API_KEY=your_gemini_api_key
 GEMINI_API_KEY=your_gemini_api_key
+FIRECRAWL_API_KEY=your_firecrawler_api_key
 ```
 
 ## Project Structure
