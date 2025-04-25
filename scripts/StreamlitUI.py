@@ -19,7 +19,7 @@ from google.genai import types
 load_dotenv()
 
 # File path configuration - change this to your actual CSV file path
-CSV_FILE_PATH = "../results/financial_metrics.csv"
+CSV_FILE_PATH = "financial_metrics.csv"
 
 # Configure Streamlit page
 st.set_page_config(
